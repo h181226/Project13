@@ -1,7 +1,7 @@
 package test;
 
-test
-
 public class Client {
-
+	public static void main(String[] args) {
+	
+	}
 }
